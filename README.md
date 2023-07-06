@@ -22,9 +22,7 @@ Altow full stack application that contains flutter and spring boot development.
 
 Import Mysql dump file and build spring boot application. Then you are ready to use Flutter application.
 
-This is the instructions for the application:
-
-https://raw.githubusercontent.com/cherryblossomsss/choosy/main/instructions.mp4?token=GHSAT0AAAAAACEZPD5MJOYXJ3EYITB6FYDMZFHBPIA
+You can check the video inside the repo to see the instructions. 
 
 ## In-app previews
 Below you can see in-app recordings for every process.
