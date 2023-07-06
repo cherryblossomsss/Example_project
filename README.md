@@ -31,32 +31,32 @@ Below you can see in-app recordings for every process.
 
 ### Sign-up Process
 
-https://github.com/dummer-Affe/altowapp/assets/85801776/3b44972e-64b9-4ed9-a4a6-172fc5028c7e
-
+https://github.com/cherryblossomsss/choosy/assets/138002977/9bf60e8c-52e7-4a5a-bf32-0bce22a9b575
 
 ### Login Process
 
-https://github.com/dummer-Affe/altowapp/assets/85801776/86fe2501-4a4f-4d52-a6e0-f6694b0bccb8
-
+https://github.com/cherryblossomsss/choosy/assets/138002977/6a46adc3-8aa2-47c4-ad8b-f0ea7ee33673
 
 ### Check Authentication
 If the user logged in before, user will be redirected to login-password page. 
 
-https://github.com/dummer-Affe/altowapp/assets/85801776/de44e1e1-36b4-4ef7-9ca7-6a6de5fe148e
+https://github.com/cherryblossomsss/choosy/assets/138002977/b0459447-b909-4641-bfc2-430ca16871f4
 
 
 ### Change Password Process
 
-https://github.com/dummer-Affe/altowapp/assets/85801776/97ac3dd1-f545-4a1f-bf57-a1365eb5fd21
+
+https://github.com/cherryblossomsss/choosy/assets/138002977/3dec373d-a446-422d-b453-1ce4fa26a52b
 
 
 ### App Design
 
-https://github.com/dummer-Affe/altowapp/assets/85801776/e2406726-df27-431e-9f1f-ee4fa55c4829
+
+https://github.com/cherryblossomsss/choosy/assets/138002977/5c1ecf73-03b0-4f9c-a95a-8cae9878d333
 
 
 ### Button Functionalities
 
-https://github.com/dummer-Affe/altowapp/assets/85801776/8c94892c-baf6-481c-9a74-3161df5fa5ac
 
+https://github.com/cherryblossomsss/choosy/assets/138002977/77fb335d-445e-4ece-a1ff-9ac747c769f3
 
