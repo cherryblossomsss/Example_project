@@ -24,7 +24,7 @@ Import Mysql dump file and build spring boot application. Then you are ready to 
 
 This is the instructions for the application:
 
-https://raw.githubusercontent.com/dummer-Affe/altowapp/main/instructions.mp4
+
 
 ## In-app previews
 Below you can see in-app recordings for every process.
