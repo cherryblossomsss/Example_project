@@ -29,32 +29,30 @@ Below you can see in-app recordings for every process.
 
 ### Sign-up Process
 
-https://github.com/cherryblossomsss/choosy/assets/138002977/9bf60e8c-52e7-4a5a-bf32-0bce22a9b575
+https://github.com/cherryblossomsss/choosy/assets/138002977/f0e3fd8e-d018-490b-b5ac-01517c88ef13
+
 
 ### Login Process
 
-https://github.com/cherryblossomsss/choosy/assets/138002977/6a46adc3-8aa2-47c4-ad8b-f0ea7ee33673
+https://github.com/cherryblossomsss/choosy/assets/138002977/bbf07492-d0b3-4116-81b1-7fca26801ba3
 
-### Check Authentication
+### Check Authenication
+
 If the user logged in before, user will be redirected to login-password page. 
 
-https://github.com/cherryblossomsss/choosy/assets/138002977/b0459447-b909-4641-bfc2-430ca16871f4
+https://github.com/cherryblossomsss/choosy/assets/138002977/d1e7b310-54b5-4248-98fe-d93f61d07d9a
 
 
 ### Change Password Process
 
-
-https://github.com/cherryblossomsss/choosy/assets/138002977/3dec373d-a446-422d-b453-1ce4fa26a52b
-
+https://github.com/cherryblossomsss/choosy/assets/138002977/d449d282-448c-4292-986d-01468a1e263b
 
 ### App Design
 
-
-https://github.com/cherryblossomsss/choosy/assets/138002977/5c1ecf73-03b0-4f9c-a95a-8cae9878d333
-
+https://github.com/cherryblossomsss/choosy/assets/138002977/a600a9e2-8bff-48b6-897f-86703050911f
 
 ### Button Functionalities
 
+https://github.com/cherryblossomsss/choosy/assets/138002977/2625a5f1-bcd5-4640-ae4b-d768106d2bd9
 
-https://github.com/cherryblossomsss/choosy/assets/138002977/77fb335d-445e-4ece-a1ff-9ac747c769f3
 
